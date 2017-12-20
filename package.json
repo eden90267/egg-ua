@@ -1,0 +1,22 @@
+{
+  "name": "egg-ua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "eggPlugin": {
+    "name": "ua"
+  },
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "egg": "^2.1.0",
+    "egg-bin": "^4.3.7",
+    "egg-mock": "^3.14.0"
+  }
+}
